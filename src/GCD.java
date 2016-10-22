@@ -4,6 +4,7 @@ public class GCD {
     public static void main(String[] args){
     // testing
         Scanner sc = new Scanner(System.in);
+        // checked, looks ok
         // added exception check
         int a = sc.nextInt();
         int b = sc.nextInt();
