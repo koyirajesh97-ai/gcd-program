@@ -17,3 +17,4 @@ public class GCD {
         sc.close();
     }
 }
+// note: only positive numbers
