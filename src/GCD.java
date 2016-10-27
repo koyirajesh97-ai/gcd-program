@@ -5,6 +5,7 @@ public class GCD {
     // updated
     // testing
         Scanner sc = new Scanner(System.in);
+        // works fine for now
         // checked, looks ok
         // added exception check
         int a = sc.nextInt();
