@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class GCD {
     public static void main(String[] args){
+    // ref: geeksforgeeks
     // updated
     // testing
         Scanner sc = new Scanner(System.in);
